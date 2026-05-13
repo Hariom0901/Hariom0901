@@ -15,7 +15,7 @@
 - 🔭 𝙲𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚢 𝚒𝚜 𝚖𝚢 𝚔𝚎𝚢 — 𝙸 𝚍𝚛𝚒𝚟𝚎 𝚘𝚗 𝚒𝚝
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚘𝚗 [𝙶𝚒𝚝𝙷𝚞𝚋](https://github.com/Hariom0901)
 - 💻 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚘𝚗 [𝙻𝚎𝚎𝚝𝙲𝚘𝚍𝚎](https://leetcode.com/HariOm_09)
-- 𝚋𝚝𝚠, Arch users flex. Fedora users ship code. [<img src="https://imgs.search.brave.com/PueqQ1bhm-FxZQUVxvTHnWSn1Ck4Gb1pXw3C84XVJI4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/dmVjdG9ycy5jb20v/c3RvcmFnZS9pbWFn/ZXMvRmVkb3JhJTIw/TGludXgtMDEuc3Zn" height="30em" align="center" alt="Fedora Linux" title="Fedora Linux"/>](https://fedoraproject.org/)
+- **𝚋𝚝𝚠, Arch users flex. Fedora users ship code.** [<img src="https://imgs.search.brave.com/PueqQ1bhm-FxZQUVxvTHnWSn1Ck4Gb1pXw3C84XVJI4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/dmVjdG9ycy5jb20v/c3RvcmFnZS9pbWFn/ZXMvRmVkb3JhJTIw/TGludXgtMDEuc3Zn" height="30em" align="center" alt="Fedora Linux" title="Fedora Linux"/>](https://fedoraproject.org/)
 
 ---
 
