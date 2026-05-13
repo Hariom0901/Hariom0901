@@ -3,7 +3,7 @@
 
 ### 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 and Math
 
-<img src="https://komarev.com/ghpvc/?username=abhaypratap08&label=Profile%20views&color=0B2D72&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Hariom0901&label=Profile%20views&color=0B2D72&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
